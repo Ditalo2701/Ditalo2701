@@ -28,8 +28,8 @@
 </div>
 
 
-  ## Email:
+  ## Portfolio:
 
-- [ditalo2701@gmail.com]()
+- [Responsivo Site - Ingrid Coiffer](portifolio-plaugus-01.netlify.app)
 
 
