@@ -7,7 +7,7 @@
 ![D'italo2701 GitHub stats](https://github-readme-stats.vercel.app/api?username=ditalo2701&show_icons=true&theme=github_dark)<br/>
 
 
-## Tecnologias que utilizo no meu dia dia.
+## Tecnologias que utilizo no meu dia a dia.
 
 
 <div style="display: inline-block">
