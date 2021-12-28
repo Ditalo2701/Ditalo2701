@@ -1,4 +1,4 @@
-### Olá eu sou o D italo 
+### Olá eu sou o D italo, seja bem vindo ao meu Git hub.✌️
 
 
 [![Istagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d_italoalmeida/)
@@ -6,7 +6,9 @@
 
 ![D'italo2701 GitHub stats](https://github-readme-stats.vercel.app/api?username=ditalo2701&show_icons=true&theme=github_dark)<br/>
 
+
 ## Tecnologias que utilizo no meu dia dia.
+
 
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt=""/>
@@ -26,7 +28,7 @@
 </div>
 
 
-  # Email:
+  ## Email:
 
 - [ditalo2701@gmail.com]()
 
