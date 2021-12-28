@@ -1,4 +1,4 @@
-### Olá eu sou o D italo, seja bem vindo ao meu Git hub.✌️
+### Olá, eu sou o D italo, tudo bem? Seja bem vindo.✌️
 
 
 [![Istagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d_italoalmeida/)
